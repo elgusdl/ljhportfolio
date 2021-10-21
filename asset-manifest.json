@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ljhportfolio/static/css/main.5f19293b.chunk.css",
+    "main.js": "/ljhportfolio/static/js/main.b2b4db7b.chunk.js",
+    "main.js.map": "/ljhportfolio/static/js/main.b2b4db7b.chunk.js.map",
+    "runtime-main.js": "/ljhportfolio/static/js/runtime-main.a1df34de.js",
+    "runtime-main.js.map": "/ljhportfolio/static/js/runtime-main.a1df34de.js.map",
+    "static/js/2.cad6d434.chunk.js": "/ljhportfolio/static/js/2.cad6d434.chunk.js",
+    "static/js/2.cad6d434.chunk.js.map": "/ljhportfolio/static/js/2.cad6d434.chunk.js.map",
+    "static/js/3.648a44ab.chunk.js": "/ljhportfolio/static/js/3.648a44ab.chunk.js",
+    "static/js/3.648a44ab.chunk.js.map": "/ljhportfolio/static/js/3.648a44ab.chunk.js.map",
+    "index.html": "/ljhportfolio/index.html",
+    "static/css/main.5f19293b.chunk.css.map": "/ljhportfolio/static/css/main.5f19293b.chunk.css.map",
+    "static/js/2.cad6d434.chunk.js.LICENSE.txt": "/ljhportfolio/static/js/2.cad6d434.chunk.js.LICENSE.txt",
+    "static/media/Detail.scss": "/ljhportfolio/static/media/frame_tablet.4466bca7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1df34de.js",
+    "static/js/2.cad6d434.chunk.js",
+    "static/css/main.5f19293b.chunk.css",
+    "static/js/main.b2b4db7b.chunk.js"
+  ]
+}
